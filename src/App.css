@@ -1,0 +1,33 @@
+body{
+  background: rgb(25,25,25);
+}
+
+h1{
+  margin-top: -0.05%;
+  background:  #701b0a;
+  text-align: center;
+  font-family: "Calibri";
+  font-size: 5em;
+  color:#f3eceb;
+}
+
+input{
+
+  width:40%;
+  height:30px;
+}
+
+table{
+  margin-top: 1%;
+  color:#f3eceb;
+  height:40px;
+  font-size: 2.5em;
+  border: 1 1 1 1;
+  border-color: white;
+
+}
+
+tr{
+  border-color:#f3eceb ;
+  border-width: 2px,2px,2px,2px;
+}
